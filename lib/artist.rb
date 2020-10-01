@@ -4,4 +4,4 @@ class Artist
     @name = name
     @song = song
   end
-  
+end
